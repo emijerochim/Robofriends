@@ -2,7 +2,7 @@
 
 ## Description
 
-🤖 API-generated users search web application (robohash.org)
+🤖 API-generated users search web application
 ____
 
 
